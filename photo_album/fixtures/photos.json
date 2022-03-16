@@ -1,0 +1,52 @@
+[
+  {
+    "model": "photo_album.photo",
+    "pk": 1,
+    "fields": {
+      "name": "test 1",
+      "photo": "test_photos/test_1.jpg",
+      "author": 1,
+      "created_at": "2022-03-16T01:48:13.569Z"
+    }
+  },
+  {
+    "model": "photo_album.photo",
+    "pk": 2,
+    "fields": {
+      "name": "test 1",
+      "photo": "test_photos/test_2.jpg",
+      "author": 1,
+      "created_at": "2022-03-16T01:48:13.569Z"
+    }
+  },
+  {
+    "model": "photo_album.photo",
+    "pk": 3,
+    "fields": {
+      "name": "test 1",
+      "photo": "test_photos/test_3.jpg",
+      "author": 1,
+      "created_at": "2022-03-16T01:48:13.569Z"
+    }
+  },
+  {
+    "model": "photo_album.photo",
+    "pk": 4,
+    "fields": {
+      "name": "test 1",
+      "photo": "test_photos/test_4.jpg",
+      "author": 1,
+      "created_at": "2022-03-16T01:48:13.569Z"
+    }
+  },
+  {
+    "model": "photo_album.photo",
+    "pk": 5,
+    "fields": {
+      "name": "test 1",
+      "photo": "test_photos/test_5.jpg",
+      "author": 1,
+      "created_at": "2022-03-16T01:48:13.569Z"
+    }
+  }
+]

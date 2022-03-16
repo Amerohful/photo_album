@@ -1,0 +1,14 @@
+Django==3.2.*
+djangorestframework==3.13.1
+djangorestframework-simplejwt==5.1.*
+django-celery-beat==2.2.1
+django-imagekit==4.1.*
+drf-spectacular==0.21.2
+drf-spectacular[sidecar]==0.21.2
+moviepy==1.0.3
+numpy==1.21.3
+Pillow==9.0.*
+psycopg2-binary==2.9.3
+PyYAML==6.0
+redis==4.1.4
+uritemplate==4.1.1

@@ -1,0 +1,1 @@
+[{"model": "mail.mailtemplate", "pk": 1, "fields": {"type": "notify", "subject": "top photo", "body": "some body"}}]
